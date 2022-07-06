@@ -11,11 +11,11 @@ https://user-images.githubusercontent.com/72432569/177532520-0efb3cf9-5992-4000-
 <h2>change the DIR</h2>
 <pre>cd sentiment-analysis-BERT</pre>
 
-<h1>Step 4</h1>
+<h1>Step 3</h1>
 <h2> now download the model </h2>
 <pre>https://anonfiles.com/x4B0wcv7yf/model_h5</pre>
 
-<h1>Step 3</h1>
+<h1>Step 4</h1>
 <h2> now run the file using this cmd </h2>
 <pre>streamlit run app.py</pre>
 
